@@ -1,0 +1,3 @@
+[submodule "learn-python"]
+	path = learn-python
+	url = git@github.com:obernardovieira/learn-python.git
