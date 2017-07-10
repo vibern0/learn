@@ -1,3 +1,6 @@
 [submodule "learn-python"]
 	path = learn-python
 	url = git@github.com:obernardovieira/learn-python.git
+[submodule "learn-testing"]
+	path = learn-testing
+	url = git@github.com:obernardovieira/learn-testing.git
