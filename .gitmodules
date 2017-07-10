@@ -4,3 +4,6 @@
 [submodule "learn-testing"]
 	path = learn-testing
 	url = git@github.com:obernardovieira/learn-testing.git
+[submodule "learn-android"]
+	path = learn-android
+	url = git@github.com:obernardovieira/learn-android.git
