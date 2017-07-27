@@ -10,3 +10,6 @@
 [submodule "learn-ruby"]
 	path = learn-ruby
 	url = git@github.com:obernardovieira/learn-ruby.git
+[submodule "learn-nodejs"]
+	path = learn-nodejs
+	url = git@github.com:obernardovieira/learn-nodejs.git
