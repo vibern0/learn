@@ -13,3 +13,6 @@
 [submodule "learn-nodejs"]
 	path = learn-nodejs
 	url = git@github.com:obernardovieira/learn-nodejs.git
+[submodule "learn-php"]
+	path = learn-php
+	url = git@github.com:obernardovieira/learn-php.git
