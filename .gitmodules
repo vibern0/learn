@@ -16,3 +16,6 @@
 [submodule "learn-php"]
 	path = learn-php
 	url = git@github.com:obernardovieira/learn-php.git
+[submodule "learn-cpp"]
+	path = learn-cpp
+	url = git@github.com:obernardovieira/learn-cpp.git
