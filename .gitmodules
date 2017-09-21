@@ -7,9 +7,6 @@
 [submodule "learn-android"]
 	path = learn-android
 	url = git@github.com:obernardovieira/learn-android.git
-[submodule "learn-ruby"]
-	path = learn-ruby
-	url = git@github.com:obernardovieira/learn-ruby.git
 [submodule "learn-php"]
 	path = learn-php
 	url = git@github.com:obernardovieira/learn-php.git
